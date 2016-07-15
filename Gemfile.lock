@@ -1,8 +1,4 @@
-PATH
-  remote: .
-  specs:
-    cabinet (0.2.2)
-      fog (~> 1.11.1)
+
 
 GEM
   remote: http://rubygems.org/
